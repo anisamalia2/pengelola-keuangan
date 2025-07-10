@@ -1,5 +1,5 @@
 # Aplikasi Pengelola Keuangan
-Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran harian. Dibuat dengan PHP dan MySQL.
+Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran harian. Dibuat dengan PHP, MySQL, HTML, CSS (Bootstrap), JavaScript.
 
 ## Fitur
 - Login dan manajemen akun pengguna
@@ -9,11 +9,6 @@ Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran harian. Dibuat d
 - Tambah transaksi & riwayat transaksi
 - Grafik laporan keuangan tahunan
 - Ringkasan bulanan (pemasukan, pengeluaran, selisih)
-
-## Teknologi
-- PHP Native
-- MySQL
-- HTML, CSS, Bootstrap
 
 ## Cara Menjalankan
 1. Import database.sql ke phpMyAdmin
